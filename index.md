@@ -6,20 +6,18 @@
 
 ### MMO Expo
 A way to turn online conventions into a game experience where many users can gather together and walk around a virtual expo.
+<br>
 [Playable Demo](https://kirkpary.github.io/CS461MMO-Expo/prototype/)
+<br>
 [GitHub](https://github.com/Kirkpary/CS461MMO-Expo)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Past Projects
 
----
-
-### Past Projects
+### Storyboard Website
+A website that allows users to write stories one sentence at a time. Users can either submit a new sentance to start a story with or add on to another user's story.
+<br>
+[GitHub](https://github.com/osu-cs290-sp19/final-project-cs290-final-project-latecomers)
 
 
 
