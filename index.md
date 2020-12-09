@@ -1,11 +1,13 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Category Name 1 
+## Current Project
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### MMO Expo
+A way to turn online conventions into a game experience where many users can gather together and walk around a virtual expo.
+[Playable Demo](https://kirkpary.github.io/CS461MMO-Expo/prototype/)
+[GitHub](https://github.com/Kirkpary/CS461MMO-Expo)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,15 +19,9 @@
 
 ---
 
-### Category Name 2
+### Past Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
----
 
 
 
