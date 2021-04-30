@@ -5,7 +5,7 @@
 ## Current Project
 
 ### MMO Expo
-A way to turn online conventions into a game experience where many users can gather together and walk around a virtual expo.
+A way to turn online conventions into a game experience where many users can gather together and walk around a virtual expo. I did work with the user interface, animating the user interface, and setting up the click based movement system in the game.
 <br><br>
 [Playable Demo](https://kirkpary.github.io/CS461MMO-Expo/prototype/)
 <br><br>
